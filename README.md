@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Keerthana 👋
 
-<!--
-**keerthanamurugan06/keerthanamurugan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering student  
+💻 Beginner in Python, C & Web Development  
+🌱 Learning step by step and building projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python programming
+- C programming
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+---
+
+## 🛠 Skills
+- Python
+- C
+- HTML & CSS
+- Git & GitHub
+
+---
+
+## 📫 Connect with me
+- Email: (murugankeerthana06@gmail.com)
+- LinkedIn: (www.linkedin.com/in/keerthana-murugan-2a331437a)
