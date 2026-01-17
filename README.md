@@ -25,10 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Keerthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthanamurugan06&show_icons=true&theme=radical)
-
----
 
 ## 📫 Connect with me
 - 📧 Email: murugankeerthana06@gmail.com
