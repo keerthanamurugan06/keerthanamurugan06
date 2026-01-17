@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Connect with me
-- 📧 Email: will add soon  
-- 💼 LinkedIn: will add soon  
+- 📧 Email: murugankeerthana06@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/keerthana-murugan-2a331437a
 
 ✨ *Focused on learning, improving, and growing in tech*
