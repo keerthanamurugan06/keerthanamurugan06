@@ -29,5 +29,35 @@
 ## 📫 Connect with me
 - 📧 Email: murugankeerthana06@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/keerthana-murugan-2a331437a
+- 
+## Featured Project
+## 🧾 Billing Application
+
+A beginner-level Billing System built to understand real-world problem solving and programming logic.
+
+## What it does:
+
+Adds and manages items
+
+Calculates total billing amount
+
+Uses simple and clear logic
+
+Focuses on accuracy and structureSkills gained:
+
+Logical thinking
+
+Control structures
+
+Basic project structuring
+
+Hands-on coding practice
+
+## Tech Stack:
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+📌 This project marked my transition from learning syntax to building real applications.
 
 ✨ *Focused on learning, improving, and growing in tech*
